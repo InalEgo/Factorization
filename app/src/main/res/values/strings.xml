@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Factorization</string>
+    <string name="action_clear">Clear</string>
+    <string name="enter_the_number">Enter the number</string>
+</resources>
